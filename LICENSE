@@ -1,0 +1,52 @@
+dddloop Agent — Proprietary Software License
+
+Copyright (c) 2026 Thanawat Yoskrai (dddloop). All rights reserved.
+
+The software distributed in this repository ("the Agent") is proprietary
+software owned by Thanawat Yoskrai and is licensed, not sold.
+
+1. PERMITTED USE
+   You are granted a non-exclusive, non-transferable, revocable license to
+   download and install the Agent on devices you control, solely for the
+   purpose of connecting those devices to the dddloop service under a valid
+   dddloop subscription or free-tier account.
+
+2. PROHIBITED
+   You may NOT, in whole or in part:
+   (a) copy, redistribute, sublicense, sell, rent, lease, or publish the
+       Agent or any of its binaries, files, or associated artifacts;
+   (b) reverse engineer, decompile, disassemble, deobfuscate, or otherwise
+       attempt to derive the source code, algorithms, protocols, file
+       formats, or trade secrets of the Agent;
+   (c) modify, adapt, translate, or create derivative works of the Agent;
+   (d) use the Agent or any portion of it as training data, reference data,
+       fine-tuning data, retrieval-augmented input, or any other input to
+       any machine-learning model, large language model, or AI system;
+   (e) bypass, disable, or circumvent any license check, API-key check,
+       hardware binding, telemetry, or update mechanism in the Agent;
+   (f) use the Agent to build, train, or operate a competing product or
+       service.
+
+3. OWNERSHIP
+   All right, title, and interest in and to the Agent, including all
+   intellectual property rights, remain with Thanawat Yoskrai. No rights
+   are granted to you other than those expressly set out above.
+
+4. TERMINATION
+   This license terminates automatically if you breach any term. Upon
+   termination, you must delete all copies of the Agent in your possession.
+
+5. NO WARRANTY
+   THE AGENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES,
+   OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE AGENT
+   OR THE USE OR OTHER DEALINGS IN THE AGENT.
+
+7. GOVERNING LAW
+   This license is governed by the laws of Thailand.
+
+Contact: dddloop.official@gmail.com
